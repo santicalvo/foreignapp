@@ -1,3 +1,11 @@
+# Angular module with ionic as a npm module
+
+This is based in this tutorial:
+https://devdactic.com/angular-ionic-library/
+
+
+
+
 # Foreingapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
