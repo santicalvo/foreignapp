@@ -3,8 +3,7 @@
 This is based in this tutorial:
 https://devdactic.com/angular-ionic-library/
 
-
-
+I think this is the proper way to do it, it is not finished yet.
 
 # Foreingapp
 
